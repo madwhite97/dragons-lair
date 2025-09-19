@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ex2020",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "esModuleInterop": true,
+        "outDir": "dist/server",
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolvedJsonModule": true
+    },
+    "include": ["server/**/*"],
+    "exclued": ["node_modules"]
+}
